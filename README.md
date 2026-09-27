@@ -1,3 +1,3 @@
 # Assignment-.3-Data-Transformation-and-Data-Modelling.pbix
-Cleaned the dataset by handling missing values, correcting inconsistent data, removing duplicates, splitting and merging columns, formatting prices and dates, and applying conditional formatting for better data accuracy and presentation.
+This assignment focuses on Data Transformation and Data Modeling using Power BI. The datasets were cleaned, transformed, merged, filtered, and grouped using Power Query. New columns such as Location, Profit Margin, and Profit Status were created. Relationships were established using Order ID and Category to create an effective data model.
 https://drive.google.com/drive/folders/1I5xEYaCcVqFIDyqCUNZ8mvP3B9NzKetX?usp=sharing
